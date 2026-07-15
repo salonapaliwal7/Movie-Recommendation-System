@@ -289,13 +289,15 @@ Collaborative Filtering model is evaluated using:
 
 ## Home Page
 
-> Add screenshot here
+> <img width="1469" height="930" alt="Screenshot 2026-07-15 at 10 28 26 PM" src="https://github.com/user-attachments/assets/8ac40aab-d26a-4c60-ad35-5d8228374e1f" />
+
 
 ---
 
 ## Recommendation Results
 
-> 
+> <img width="1470" height="933" alt="Screenshot 2026-07-15 at 10 28 44 PM" src="https://github.com/user-attachments/assets/2db05db4-2be5-41d5-83e8-de909c5386d8" />
+
 
 ---
 
