@@ -295,7 +295,7 @@ Collaborative Filtering model is evaluated using:
 
 ## Recommendation Results
 
-> Add screenshot here
+> 
 
 ---
 
@@ -321,17 +321,5 @@ Collaborative Filtering model is evaluated using:
 - Hybrid Recommendation Systems
 - Streamlit Deployment
 - Modular Python Project Structure
-
----
-
-# 👨‍💻 Author
-
-**Salona**
-
-AI/ML Engineer | Machine Learning | Deep Learning | Recommendation Systems
-
-LinkedIn: *(Add your profile)*
-
-GitHub: *(Add your GitHub profile)*
 
 ---

@@ -5,6 +5,14 @@ from src.utils import load_data, preprocess_movies
 from src.hybrid import hybrid_recommend
 
 
+import os
+
+if not os.path.exists("models/cosine_similarity.pkl"):
+    from train import train_models 
+    train_models()
+
+cosine_sim = joblib.load("models/cosine_similarity.pkl")
+
 # PAGE CONFIG
 st.set_page_config(
     page_title="Movie Recommendation System",
