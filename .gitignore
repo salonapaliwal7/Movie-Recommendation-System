@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Models (optional, if large)
+models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
